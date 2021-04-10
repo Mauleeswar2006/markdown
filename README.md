@@ -1,7 +1,9 @@
 # ORANGE JUICE
 ## [Ingredients](ingredients.md)
 ## [Recipe](recipe.md)
-## [RecipesNote](recipesNote.md)
-## [How to Store](HOWTOSTORE.md)
-## [Questions](Questions.md)
-## [Contact US](contactUs.md)
+## [RecipesNote](RecipesNote.md)
+## [How to Store](HOW TO STORE.md)
+## [Questions](Question.md)
+## [Contact US](Contact Us.md)
+
+![Juice](orange.jpg)
